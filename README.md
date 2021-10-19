@@ -1,5 +1,5 @@
 ### Hi there 👋, My name is Henry
-#### I'm from Germany and I'm a full stack developer
+#### I'm from Germany and I'm a full stack developer.
 Currently I'm developing on various projects which center around the topic of Discord bots, databases and networking. 
 
 Skills: JS / Java / PHP / CSS / HTML 
