@@ -1,21 +1,16 @@
-### Hi there 👋
+### Hi there 👋, My name is Henry
+#### I'm from Germany and I'm a full stack developer
+Currently I'm developing on various projects which center around the topic of Discord bots, databases and networking. 
 
-I'm Henry from Germany, and I'm currently developing on various projects which center around the topic of Discord bots, databases and networking. Currently I'm mostly coding in Java Script on Node JS but I've had 3 years of experience in Java where I even developed my own Android app. 
+Skills: JS / Java / PHP / CSS / HTML 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henry-herrmann)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on a Discord Bot for a larger community 
+- 📫 How to reach me: [Join this Discord](https://discord.com/invite/p8sysSaVzt) 
 
 
-<!--
-**henry-herrmann/henry-herrmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/henry-herrmann)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://rjks.us)  
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henry-herrmann)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=henry-herrmann&show_icons=true&count_private=true)  
+
