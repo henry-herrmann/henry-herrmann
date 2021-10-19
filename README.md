@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Henry from Germany, and I'm currently developing on various projects which center around the topic of Discord bots, databases and networking. Currently I'm mostly coding in Java Script on Node JS but I've had 3 years of experience in Java where I even developed my own Android app. 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=henry-herrmann)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **henry-herrmann/henry-herrmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
