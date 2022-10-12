@@ -2,7 +2,7 @@
 #### I'm from Germany and I'm a full stack developer.
 Currently I'm developing on various projects which center around the topic of Discord bots, databases and networking. 
 
-Skills: JS / Java / PHP / CSS / HTML 
+Skills: JS / Java / CSS / HTML 
 
 - 🔭 I’m currently working on a Discord Bot for a larger community 
 - 📫 How to reach me: [Join this Discord](https://discord.com/invite/p8sysSaVzt) 
