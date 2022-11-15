@@ -2,7 +2,7 @@
 #### I'm from Germany and I'm a full stack developer.
 Currently I'm developing on various projects which center around the topic of Discord bots, databases and networking. 
 
-Skills: JS / Java / CSS / HTML 
+Skills: JS / Dart / Java
 
 - 🔭 I’m currently developing a mobile application for my university 
 - 📫 How to reach me: [Visit my website](https://herrmann.page) 
