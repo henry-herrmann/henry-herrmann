@@ -11,3 +11,5 @@ Skills: JS / Dart / Java
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=henry-herrmann&show_icons=true&count_private=true&theme=transparent)  
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
