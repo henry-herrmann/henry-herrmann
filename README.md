@@ -7,6 +7,6 @@ Skills: Java / JavaScript / SQL / Dart
 - 🔭 I’m currently developing a mobile application for my university 
 - 📫 How to reach me: [Visit my website](https://herrmann.page) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henry-herrmann&layout=compact&theme=transparent)
+![Top Langs](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=henry-herrmann&theme=transparent)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=henry-herrmann&show_icons=true&count_private=true&theme=transparent)  
+![GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=henry-herrmann&theme=transparent) 
